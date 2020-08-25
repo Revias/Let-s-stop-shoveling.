@@ -1,1 +1,1 @@
-# Let-s-stop-shoveling.
+# 커밋을 습관화 해야합니다.
